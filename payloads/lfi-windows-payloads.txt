@@ -1,0 +1,8 @@
+..\..\..\..\..\Windows\win.ini
+..\..\..\..\..\Windows\win.ini%00
+..;\..;\..;\..;\..;\Windows\win.ini
+..;\..;\..;\..;\..;\Windows\win.ini%00
+..%u2216..%u2216..%u2216..%u2216..%u2216Windows\win.ini
+..%u2216..%u2216..%u2216..%u2216..%u2216Windows\win.ini%00
+%2e%2e\\%2e%2e\\%2e%2e\\%2e%2e\\%2e%2e\\Windows\\win.ini
+%2e%2e\\%2e%2e\\%2e%2e\\%2e%2e\\%2e%2e\\Windows\\win.ini%00

