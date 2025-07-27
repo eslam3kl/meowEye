@@ -127,6 +127,7 @@ Accept-Language: en-US,en;q=0.9
 
 ### 📝 TODO
 
+- [ ] Integrate with AI engine to validate the results
 - [ ] Add more findings  
 - [ ] Implement multi-threading for faster scanning  
 - [ ] Add an **All** option to check all findings together  
